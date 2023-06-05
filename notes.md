@@ -15,4 +15,4 @@ Prefers-color scheme media query
 
 Accessibility
 -Use correct heading tags
--Screenreader-only text for card titles/username    https://www.useragentman.com/enable/screen-reader-only-text.php#:~:text=Screen%20reader%20only%20text%20(also,visual%20text%20on%20the%20screen.
+-Screenreader-only text for card titles/username    https://www.useragentman.com/enable/screen-reader-only-text.php#:~:text=Screen%20reader%20only%20text%20also,visual%20text%20on%20the%20screen.
